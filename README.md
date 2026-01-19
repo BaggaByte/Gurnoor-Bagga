@@ -15,5 +15,5 @@
 - 🤖 **Project: Alexa** | Integrating a 3D visualizer with a custom Python voice assistant.
 - ⚡ **OS Research** | Implementing FCFS and SJF scheduling algorithms for performance optimization.
 ### 📊 System Metrics
-![Gurnoor's Stats](https://github-readme-stats.vercel.app/api?username=BaggaBytes&show_icons=true&theme=radical&bg_color=0D1117&text_color=00FF41&icon_color=00FF41)
+![Gurnoor's Stats](https://github-readme-stats.vercel.app/api?username=BaggaByte&show_icons=true&theme=radical&bg_color=0D1117&text_color=00FF41&icon_color=00FF41)
 Security Researcher &amp; Software Developer | Deep diving into penetration testing with Metasploit and building Python-based automation.
