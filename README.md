@@ -1,5 +1,6 @@
 # Gurnoor-Bagga
-# 0xGurnoor: System.Initialize() # 0xGurnoor <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3Znd4ZzRrdXp3bmZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4&ep=v1_internal_gif_by_id&rid=giphy.gif" width="35">
+# 0xGurnoor: System.Initialize() # 0xGurnoor 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3Znd4ZzRrdXp3bmZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4&ep=v1_internal_gif_by_id&rid=giphy.gif" width="35">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Initialising+Shell...;Accessing+Mainframe...;Welcome+to+my+Digital+Lair" alt="Typing SVG" />
