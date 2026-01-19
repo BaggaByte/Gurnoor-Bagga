@@ -22,6 +22,9 @@
 - **Status**: <img src="https://media.giphy.com/media/13Hgw4IHP2El24/giphy.gif" width="20"> *Compiling Code...*
 
 <br>
+---
+
+
 
 ### 🛠 Technologies & Tools
 <p align="left">
@@ -70,3 +73,8 @@
   <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </p>
+### 📟 Initiate Secure Uplink (CLI)
+Access my digital business card directly from your terminal.
+
+```bash
+npx gurnoor-card
