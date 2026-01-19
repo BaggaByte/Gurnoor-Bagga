@@ -1,5 +1,5 @@
 # Gurnoor-Bagga
-# 0xGurnoor: System.Initialize()
+# 0xGurnoor: System.Initialize() # 0xGurnoor <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3Znd4ZzRrdXp3bmZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4&ep=v1_internal_gif_by_id&rid=giphy.gif" width="35">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Initialising+Shell...;Accessing+Mainframe...;Welcome+to+my+Digital+Lair" alt="Typing SVG" />
@@ -14,9 +14,17 @@
 ### 📂 Active Operations
 - 🤖 **Project: Alexa** | Integrating a 3D visualizer with a custom Python voice assistant.
 - ⚡ **OS Research** | Implementing FCFS and SJF scheduling algorithms for performance optimization.
+### 📂 Active Operations
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp4eGZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4&ep=v1_internal_gif_by_id&rid=giphy.gif" width="150">
+
+- 🤖 **Project: Alexa** | Integrating a 3D visualizer with a custom Python voice assistant.
+- 🛡️ **Security Lab** | Penetration testing and learning Metasploit frameworks.
 ### 📊 System Metrics
 ![Gurnoor's Stats](https://github-readme-stats.vercel.app/api?username=BaggaByte&show_icons=true&theme=radical&bg_color=0D1117&text_color=00FF41&icon_color=00FF41)
 ## 🕵️ System Information
+### ⚡ System Skills
+- **Python** ![Python](https://raw.githubusercontent.com/t-reksss/t-reksss/master/assets/python.gif)
+- **Cybersecurity** ![Hacker](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/active_hacker.gif)
 
 - **User**: Gurnoor Bagga (Rio)
 - **Specialization**: Cybersecurity & Tech Enthusiast
